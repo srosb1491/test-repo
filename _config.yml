@@ -21,7 +21,7 @@
 title: Website for SI_676
 email: bstephie@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a test website for the University of Michigan course, SI 676. [Networked Services for Libraries, Archives, and Museums] URL to the site's main page: https://srosb1491.github.io/test-repo/
+  This is a [test website](https://srosb1491.github.io/test-repo/) for the University of Michigan course, SI 676: Networked Services for Libraries, Archives, and Museums
 baseurl: "/test-repo" # the subpath of your site, e.g. /blog
 url: "https://srosb1491.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
